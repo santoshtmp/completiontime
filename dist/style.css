@@ -1,0 +1,23 @@
+#time_count_down {
+    display: inline-flex;
+    margin-left: 5px;
+}
+
+.completion-time-select {
+    display: inline-block;
+    max-width: 70px;
+    height: calc(1.5em + 0.75rem + 2px);
+    font-size: .9375rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    vertical-align: middle;
+    border: 1px solid #8f959e;
+    border-radius: .5rem;
+    appearance: none;
+}
+
+#validate-completion-time{
+    font-size: smaller;
+    color: #e13030;;
+}
